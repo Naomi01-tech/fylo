@@ -1,0 +1,85 @@
+body{
+    background-color:  hsl(229, 57%, 11%);
+    width: 600px;
+    background-size: cover;
+    overflow: hidden;
+    height: 600px;
+    max-height: 100%;
+    max-width: 100%;
+    font-size: 14px;
+}
+.container{
+    margin-top: 140px;
+    max-height: 100%;
+    max-width: 100%;
+    display: flex;
+}
+.page{
+display: flex;
+}
+.logo{
+margin-left: 50px;
+margin-bottom: -80px;
+}
+.gb{
+    font-size: 13px;
+}
+h2{
+font-size: 30px;
+}
+.sid{
+    background-color: white;
+    width: 100px;
+    height: 200px;
+    border-radius: 20px;
+    
+}
+.first{
+    width: 300px;
+    height: 160px;
+    margin-left: 230px;
+    margin-bottom: -200px;
+    border-top-right-radius: 50px;
+    background-color: darkblue;
+}
+.sec{
+    width: 500px;
+    height: 160px;
+    margin-left: 50px;
+    margin-top: 1px;
+    background-color: darkblue;
+    border-radius: 20px;
+    display: flex;
+    color:  hsl(243, 100%, 93%);
+    text-align: center;
+}
+.all{
+    display: flex;
+}
+.items{
+    margin: 120px;
+}
+button{
+    width: 560px;
+    height: 17px;
+    margin-top: 100px;
+    margin-right: 100px;
+    border: none;
+    background: linear-gradient(to right ,red ,blue);
+    border-radius: 10px;
+}
+.circle{
+ width: 40px;
+ height: 40px;
+ border-radius: 7px;
+ background-color: white;
+}
+.desk{
+    margin-top: -500px;
+}
+.doc{
+    margin-right: 40px;
+}
+.fold{
+    margin-right: 40px;
+}
